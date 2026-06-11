@@ -1,5 +1,7 @@
 # Superstore-Dashboard
 Project Title : Superstore Sales Analytics Dashboard 
+
+
  Short Description / Purpose : The Superstore Sales Dashboard is an interactive Power BI project designed to analyze and visualize retail business performance using the Superstore dataset. The dashboard helps businesses identify trends, evaluate performance, and make data-driven decisions.
 Tech Stack :
        Power BI
